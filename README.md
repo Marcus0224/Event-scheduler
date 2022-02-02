@@ -9,8 +9,8 @@
 Purpose
 A website that offers to focus on toy life and be orderly 
 
-Build With
-HTML 
+Build With--
+*HTML 
 *CSS 
 *JQuery 
 *Bootstrap
@@ -24,6 +24,8 @@ When the user views the time blocks for that day, each time block is color-coded
 Then the user can click into a time block and enter an event they choose 
 When clicked on the save button on the right for that time block, then the text for that event is saved in local storage
 When the page is refreshed, nothing is lost and your events are still current. 
+
+https://github.com/mmeii/work-day-scheduler/blob/main/Assets/day-planner-demo.gif
 
 
 Contributions
