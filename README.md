@@ -1,9 +1,9 @@
 # Work scheduler
 
 
-# Website https://marcus0224.github.io/Work-Scheduler/
+#Website https://marcus0224.github.io/Work-Scheduler/
 
-# GitPages https://marcus0224.github.io/Work-Scheduler/
+#GitPages https://marcus0224.github.io/Work-Scheduler/
 
 
 Purpose
