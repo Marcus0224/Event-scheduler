@@ -25,7 +25,6 @@ Then the user can click into a time block and enter an event they choose
 When clicked on the save button on the right for that time block, then the text for that event is saved in local storage
 When the page is refreshed, nothing is lost and your events are still current. 
 
-https://github.com/mmeii/work-day-scheduler/blob/main/Assets/day-planner-demo.gif
 
 
 Contributions
