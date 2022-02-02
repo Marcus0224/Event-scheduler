@@ -1,22 +1,22 @@
 # Work scheduler
 
 
-#Website https://marcus0224.github.io/Work-Scheduler/
+# Website https://marcus0224.github.io/Work-Scheduler/
 
-#GitPages https://marcus0224.github.io/Work-Scheduler/
+# GitPages https://marcus0224.github.io/Work-Scheduler/
 
 
 Purpose
 A website that offers to focus on toy life and be orderly 
 
-Build With--
+# Build With
 *HTML 
 *CSS 
 *JQuery 
 *Bootstrap
 *Moment.js
 
-#Functionality
+# Functionality
 When the planner is openned, the current day is displayed at the top of the calendar
 When scrolled down, the user is presented with time blocks for standard business hours.
 When the user views the time blocks for that day, each time block is color-coded to indicate whether it is in the past, present, or future
