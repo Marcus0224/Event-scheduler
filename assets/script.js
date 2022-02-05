@@ -26,7 +26,7 @@ $(document).ready(function () {
         // loop over time blocks
         $(".time-block").each(function () {
             var blockTime = parseInt($(this).attr("id").split("hour")[1]);
-
+            console.log('blockTime', blockTime);
             // To check the time and add the classes for background indicators
             if (blockTime < timeNow) {
                 $(this).removeClass("future");
@@ -45,14 +45,6 @@ $(document).ready(function () {
 
             }
         })
-    }
-
-    // apply new class if task is near/over due date
-    if (moment().isAfter(time)) {
-        $(taskEl).addClass("past");
-    }
-    else if (Math.abs(moment().diff(time, "days")) <= 2) {
-        $(taskEl).addClass("past");
     }
 
     // Get item from local storage if any
